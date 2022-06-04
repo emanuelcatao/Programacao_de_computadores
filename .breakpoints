@@ -1,0 +1,30 @@
+{
+  "files": {
+    "somador1.c": [
+      {
+        "id": "e1abff39-063f-46b4-bfc9-cf4b171eaa7b",
+        "line": 52,
+        "version": 6,
+        "index": 1465
+      },
+      {
+        "id": "a314faf8-e0cc-41b0-a812-ec9071cdde44",
+        "line": 91,
+        "version": 6,
+        "index": 2141
+      },
+      {
+        "id": "b7d4b4f5-6def-4cab-9e90-68a2d2fae065",
+        "line": 104,
+        "version": 6,
+        "index": 2422
+      },
+      {
+        "id": "94c44bcf-bc29-45d7-b6e5-98b54465db53",
+        "line": 118,
+        "version": 6,
+        "index": 2701
+      }
+    ]
+  }
+}
